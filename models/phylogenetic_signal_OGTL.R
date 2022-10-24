@@ -133,11 +133,11 @@ tea_with_variation_stable <- tea_with_variation_stable[,-40]
 
 write.csv(tea_with_variation_stable,"./OGTL/data/stable_dataframe.csv")
 
-fritz_d <- read.csv("./OGTL/data/fritz_d_table.txt", sep = "\t")
+fritz_d <- read.csv("./OGTL/results/fritz_d_table.txt", sep = "\t")
 features <- read.csv("./OGTL/data/feature_description.txt", sep="\t")
 total <- merge(fritz_d,features,by="ID")
 
-write.csv(total,"total.csv")
+write.csv(total,"./OGTL/results/total.csv")
 
 stable_dataframe_d <- total[total$EstimatedD<cut_off_point,]
 
