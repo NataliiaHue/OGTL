@@ -1,0 +1,2235 @@
+[1] "GB022"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 30
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5355488
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0413
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0969
+
+[1] "GB023"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4577433
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2693
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5645
+
+[1] "GB026"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 11
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4631548
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0882
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1824
+
+[1] "GB027"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 11
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.7363753
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2026
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0455
+
+[1] "GB028"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 30
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.002859207
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0013
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4894
+
+[1] "GB030"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 35
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -5.38705
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0287
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9434
+
+[1] "GB031"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 33
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.9401144
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.4463
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1706
+
+[1] "GB035"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 22
+                     1 = 13
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5097286
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0175
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0567
+
+[1] "GB037"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 34
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2957865
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3429
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5011
+
+[1] "GB039"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 29
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.7652456
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1985
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0613
+
+[1] "GB043"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4534024
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2652
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5617
+
+[1] "GB044"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 8
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1362503
+Probability of E(D) resulting from no (random) phylogenetic structure :  6e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3651
+
+[1] "GB046"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -1.841455
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0036
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.895
+
+[1] "GB047"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 25
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  4.950514
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7762
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0745
+
+[1] "GB048"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 3
+                     1 = 23
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.805699
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3372
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1434
+
+[1] "GB049"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 3
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.6538785
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2446
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2254
+
+[1] "GB057"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 20
+                     1 = 15
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.05804634
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4216
+
+[1] "GB059"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 26
+                     1 = 8
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.1339238
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6583
+
+[1] "GB068"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 24
+                     1 = 10
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1988874
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.001
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3169
+
+[1] "GB069"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 29
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.1191846
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0022
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5714
+
+[1] "GB070"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 36
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  3.533332
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.73
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1976
+
+[1] "GB071"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 34
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3729862
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2374
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3504
+
+[1] "GB075"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 35
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  4.611298
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.8872
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0304
+
+[1] "GB082"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 5
+                     1 = 31
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3612536
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0281
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2438
+
+[1] "GB083"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 36
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.08935389
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3531
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5294
+
+[1] "GB084"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 13
+                     1 = 22
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.2664862
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.7977
+
+[1] "GB086"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 11
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8156447
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1897
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0075
+
+[1] "GB089"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 23
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4626469
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9391
+
+[1] "GB091"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 23
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4679687
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9345
+
+[1] "GB095"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 35
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -1.63053
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2572
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6122
+
+[1] "GB105"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 28
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2008666
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0271
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3669
+
+[1] "GB107"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 7
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.05340579
+Probability of E(D) resulting from no (random) phylogenetic structure :  5e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5332
+
+[1] "GB108"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 26
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4320651
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8056
+
+[1] "GB111"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 17
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.6805421
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9703
+
+[1] "GB114"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1199026
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0021
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.388
+
+[1] "GB115"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 26
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1003822
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0176
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4694
+
+[1] "GB117"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 30
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3803885
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0498
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6858
+
+[1] "GB118"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 11
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.223212
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.6575
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0222
+
+[1] "GB119"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 21
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5721691
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0231
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0416
+
+[1] "GB120"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 25
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5677318
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0303
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0633
+
+[1] "GB121"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 22
+                     1 = 14
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4338082
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0065
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0917
+
+[1] "GB122"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.1695135
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0013
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6677
+
+[1] "GB123"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 17
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3805364
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2265
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5012
+
+[1] "GB126"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 9
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1757006
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0025
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3597
+
+[1] "GB127"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  6.132578
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7432
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1397
+
+[1] "GB132"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 34
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.150546
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.5968
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0246
+
+[1] "GB134"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 25
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.09170958
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1303
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5193
+
+[1] "GB135"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 19
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.876695
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7876
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0486
+
+[1] "GB136"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 13
+                     1 = 13
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2069185
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0051
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2902
+
+[1] "GB137"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 7
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3260364
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0078
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2209
+
+[1] "GB138"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 33
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.47768
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3485
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5532
+
+[1] "GB139"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 21
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2637732
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0014
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2182
+
+[1] "GB140"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 24
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2401111
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0131
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2974
+
+[1] "GB146"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 11
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2645116
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0416
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.386
+
+[1] "GB147"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 33
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.05857102
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0105
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4797
+
+[1] "GB150"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 28
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.316932
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.5946
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0973
+
+[1] "GB152"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 8
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.7127143
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1188
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.044
+
+[1] "GB156"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 35
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -6.617103
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9408
+
+[1] "GB158"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 22
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.517332
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7292
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0745
+
+[1] "GB159"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 20
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8926547
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3435
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.075
+
+[1] "GB160"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 6
+                     1 = 21
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.354147
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.903
+Probability of E(D) resulting from Brownian phylogenetic structure    :  4e-04
+
+[1] "GB166"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3574544
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2688
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.552
+
+[1] "GB167"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 33
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4877036
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2697
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3028
+
+[1] "GB184"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 32
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8672209
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3888
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1081
+
+[1] "GB185"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 22
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8880588
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3147
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0296
+
+[1] "GB187"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 28
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1246141
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1418
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4469
+
+[1] "GB188"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 24
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2282413
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.041
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3701
+
+[1] "GB196"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 35
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -5.144544
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0265
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.937
+
+[1] "GB197"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 35
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -5.610274
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0244
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9429
+
+[1] "GB204"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.986326
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.9673
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0075
+
+[1] "GB250"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 26
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.05106244
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0137
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5322
+
+[1] "GB252"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 8
+                     1 = 21
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.14168
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.6865
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0011
+
+[1] "GB253"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 10
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.0938916
+Probability of E(D) resulting from no (random) phylogenetic structure :  3e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5898
+
+[1] "GB254"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.6115703
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0593
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0411
+
+[1] "GB256"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 21
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2877582
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0146
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3343
+
+[1] "GB257"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 26
+                     1 = 8
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.7758936
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1656
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0181
+
+[1] "GB263"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 33
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -2.069606
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9727
+
+[1] "GB264"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 34
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  2.336188
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.5122
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3331
+
+[1] "GB266"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 7
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.2227722
+Probability of E(D) resulting from no (random) phylogenetic structure :  3e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6397
+
+[1] "GB273"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 23
+                     1 = 11
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3869961
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8694
+
+[1] "GB275"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 21
+                     1 = 9
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1919336
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0043
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3268
+
+[1] "GB276"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 28
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.06157604
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.02
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5722
+
+[1] "GB286"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 30
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.08768473
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0056
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4302
+
+[1] "GB296"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 11
+                     1 = 11
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5357145
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0809
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1064
+
+[1] "GB298"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 25
+                     1 = 11
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3357605
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8083
+
+[1] "GB299"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3868898
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0184
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1914
+
+[1] "GB301"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 6
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.05636068
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0553
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4985
+
+[1] "GB304"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 23
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.08509446
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0192
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4702
+
+[1] "GB305"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -3.329044
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0953
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.7727
+
+[1] "GB306"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.7254925
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0045
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.7046
+
+[1] "GB309"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 21
+                     1 = 13
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3097464
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0016
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1775
+
+[1] "GB313"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.9268575
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.355
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0139
+
+[1] "GB316"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3307134
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2738
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5516
+
+[1] "GB318"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4116381
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2727
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5584
+
+[1] "GB322"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 28
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.857926
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.283
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0241
+
+[1] "GB323"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 24
+                     1 = 9
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.223026
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.8488
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+[1] "GB324"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 15
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5994073
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0696
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0503
+
+[1] "GB325"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 17
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.129088
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.6489
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0037
+
+[1] "GB326"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 25
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.340042
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.6512
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0765
+
+[1] "GB327"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.7735732
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2176
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0578
+
+[1] "GB329"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8527193
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3465
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1426
+
+[1] "GB400"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 29
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.447751
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1428
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2714
+
+[1] "GB401"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 5
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.336875
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1803
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3952
+
+[1] "GB403"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 17
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -1.740249
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8816
+
+[1] "GB408"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 36
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  3.464355
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7257
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2019
+
+[1] "GB410"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.1358111
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6595
+
+[1] "GB415"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 26
+                     1 = 10
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5845869
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0324
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.052
+
+[1] "GB421"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 15
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3923423
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.001
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.7669
+
+[1] "GB422"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.7388343
+Probability of E(D) resulting from no (random) phylogenetic structure :  5e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8459
+
+[1] "GB431"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  3.533937
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7274
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1013
+
+[1] "GB432"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 8
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2162021
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0021
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2964
+
+[1] "GB433"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 26
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.8538245
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9231
+
+[1] "GB519"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 7
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8274559
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2235
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0187
+
+[1] "GB520"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 34
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5774961
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2667
+
+[1] "GB521"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 33
+                     1 = 3
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5545529
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1827
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2143
+
+[1] "GB522"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 29
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.006342418
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.2736
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6195
+
+[1] "TE002"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 2
+                     1 = 33
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.686727
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7697
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0389
+
+[1] "TE003"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 16
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.02049315
+Probability of E(D) resulting from no (random) phylogenetic structure :  1e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4652
+
+[1] "TE004"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 29
+                     1 = 5
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.8334156
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.975
+
+[1] "TE005"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 9
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.218083
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.7506
+
+[1] "TE006"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 21
+                     1 = 10
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.0149282
+Probability of E(D) resulting from no (random) phylogenetic structure :  3e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.495
+
+[1] "TE007"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 31
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2020877
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0268
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.3952
+
+[1] "TE008"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 33
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4269523
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0572
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2399
+
+[1] "TE014"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 8
+                     1 = 15
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.8641618
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.3037
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0261
+
+[1] "TE016"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 1
+                     1 = 36
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  3.524643
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.7267
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1996
+
+[1] "TE018"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 13
+                     1 = 22
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.05765047
+Probability of E(D) resulting from no (random) phylogenetic structure :  1e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4159
+
+[1] "TE019"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 26
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.6267203
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9586
+
+[1] "TE027"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 23
+                     1 = 11
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.6705904
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0706
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0249
+
+[1] "TE031"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 14
+                     1 = 22
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.2517379
+Probability of E(D) resulting from no (random) phylogenetic structure :  6e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.215
+
+[1] "TE037"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 15
+                     1 = 21
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4346587
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.005
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.087
+
+[1] "TE038"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4281395
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8832
+
+[1] "TE039"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 26
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5615693
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0271
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0599
+
+[1] "TE046"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 21
+                     1 = 12
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4600417
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0105
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0933
+
+[1] "TE050"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 30
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  1.9654
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.8802
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0209
+
+[1] "TE051"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 27
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.3848816
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0042
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1531
+
+[1] "TE052"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 19
+                     1 = 17
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.7344718
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9753
+
+[1] "TE054"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 28
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.6359914
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1416
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.1319
+
+[1] "TE059"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 32
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.9635006
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.4414
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.0343
+
+[1] "TE062"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 4
+                     1 = 17
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4676525
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0067
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.6921
+
+[1] "TE066"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 18
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.7432493
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.948
+
+[1] "TE078"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 34
+                     1 = 2
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.1491683
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.167
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4447
+
+[1] "TS001"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 3
+                     1 = 32
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4610384
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1298
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2588
+
+[1] "TS002"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 25
+                     1 = 9
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.02034387
+Probability of E(D) resulting from no (random) phylogenetic structure :  3e-04
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5469
+
+[1] "TS006"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 12
+                     1 = 24
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.3947529
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.8529
+
+[1] "TS008"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 36
+                     1 = 1
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  2.781226
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.6744
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.196
+
+[1] "TS009"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 5
+                     1 = 12
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.06436448
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0165
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.5535
+
+[1] "TS010"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 10
+                     1 = 6
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.5088281
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.1441
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2277
+
+[1] "TS079"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 27
+                     1 = 4
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  0.4435946
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.0925
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2391
+
+[1] "TS080"
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  data
+  Binary variable :  V1
+  Counts of states:  0 = 18
+                     1 = 12
+  Phylogeny :  phy
+  Number of permutations :  10000
+
+Estimated D :  -0.4700667
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.9049
+

@@ -1,0 +1,283 @@
+ID	State0	State1	EstimatedD	NoPhylogeneticStructure	BrownianPhylogeneticStructure	Feature	sort
+GB022	30	6	0.4050011	0.0256	0.1962	Are there prenominal articles?	article
+GB023	36	1	-0.4338349	268	0.5616	Are there postnominal articles?	article
+GB022	30	6	0.4050011	0.0256	0.1962	Are there prenominal articles?	word order
+GB023	36	1	-0.4338349	268	0.5616	Are there postnominal articles?	word order
+GB026	11	7	0.4603635	0.0896	0.1916	Can adnominal property words occur discontinuously?	word order
+GB026	11	7	0.4603635	0.0896	0.1916	Can adnominal property words occur discontinuously?	adjective
+GB027	12	11	0.7309815	0.1952	0.0434	Are nominal conjunction and comitative expressed by different elements?	formal expression
+GB028	30	6	-0.008334775	0.0016	0.4936	Is there an inclusive/exclusive distinction?	pronoun
+GB030	35	1	-5.912093	0.0284	0.9404	Is there a gender distinction in independent 3rd person pronouns?	pronoun
+GB028	30	6	-0.008334775	0.0016	0.4936	Is there an inclusive/exclusive distinction?	semantics
+GB030	35	1	-5.912093	0.0284	0.9404	Is there a gender distinction in independent 3rd person pronouns?	semantics
+GB031	33	2	0.951841	0.4615	0.1607	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	pronoun
+GB031	33	2	0.951841	0.4615	0.1607	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	semantics
+GB035	22	13	0.5132756	0.0157	0.0539	Are there three or more distance contrasts in demonstratives?	demonstrative
+GB035	22	13	0.5132756	0.0157	0.0539	Are there three or more distance contrasts in demonstratives?	semantics
+GB037	34	1	0.3027694	0.3471	0.4996	Do demonstratives show a visible-nonvisible distinction?	demonstrative
+GB037	34	1	0.3027694	0.3471	0.4996	Do demonstratives show a visible-nonvisible distinction?	semantics
+GB039	29	5	0.7650178	0.2024	0.0632	Is there nonphonological allomorphy of noun number markers?	nominal inflection
+GB043	36	1	-0.4253341	0.2743	561	Is there productive morphological dual marking on nouns?	nominal inflection
+GB044	8	29	0.1430074	7E-04	354	Is there productive morphological plural marking on nouns?	nominal inflection
+GB039	29	5	0.7650178	0.2024	0.0632	Is there nonphonological allomorphy of noun number markers?	noun
+GB043	36	1	-0.4253341	0.2743	561	Is there productive morphological dual marking on nouns?	noun
+GB044	8	29	0.1430074	7E-04	354	Is there productive morphological plural marking on nouns?	noun
+GB046	2	24	-1.839791	0.0021	0.89	Is there an associative plural marker for nouns?	noun
+GB046	2	24	-1.839791	0.0021	0.89	Is there an associative plural marker for nouns?	nominal inflection
+GB047	1	25	4.933328	0.7707	78	Is there a productive morphological pattern for deriving an action/state noun from a verb?	noun
+GB048	3	23	0.8169228	0.3435	0.1432	Is there a productive morphological pattern for deriving an agent noun from a verb?	noun
+GB049	3	24	0.6526118	0.2472	0.2321	Is there a productive morphological pattern for deriving an object noun from a verb?	noun
+GB047	1	25	4.933328	0.7707	78	Is there a productive morphological pattern for deriving an action/state noun from a verb?	nominal derivation
+GB048	3	23	0.8169228	0.3435	0.1432	Is there a productive morphological pattern for deriving an agent noun from a verb?	nominal derivation
+GB049	3	24	0.6526118	0.2472	0.2321	Is there a productive morphological pattern for deriving an object noun from a verb?	nominal derivation
+GB057	21	13	-0.1087739	0	0.6221	Are there numeral classifiers?	classifier
+GB059	26	8	-0.1305107	0	0.6655	Is the adnominal possessive construction different for alienable and inalienable nouns?	attributive possession
+GB059	26	8	-0.1305107	0	0.6655	Is the adnominal possessive construction different for alienable and inalienable nouns?	formal expression
+GB068	24	10	0.1968686	9E-04	0.3234	Do core adjectives (defined semantically as property concepts such as value  shape  age  dimension) act like verbs in predicative position?	adjective
+GB068	24	10	0.1968686	9E-04	0.3234	Do core adjectives (defined semantically as property concepts such as value  shape  age  dimension) act like verbs in predicative position?	adjectival inflection
+GB069	29	5	-0.1191013	0.0019	0.5747	Do core adjectives (defined semantically as property concepts; value  shape  age  dimension) used attributively require the same morphological treatment as verbs?	adjective
+GB069	29	5	-0.1191013	0.0019	0.5747	Do core adjectives (defined semantically as property concepts; value  shape  age  dimension) used attributively require the same morphological treatment as verbs?	adjectival inflection
+GB070	1	36	3.394654	0.7315	0.1972	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	noun
+GB071	2	34	0.3766771	0.2426	346	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	pronoun
+GB070	1	36	3.394654	0.7315	0.1972	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	nominal inflection
+GB071	2	34	0.3766771	0.2426	346	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	pronominal inflection
+GB075	1	35	4.948035	0.8888	0.0302	Are there postpositions?	adposition
+GB075	1	35	4.948035	0.8888	0.0302	Are there postpositions?	word order
+GB082	5	31	0.3591921	0.0311	0.2508	Is there overt morphological marking of present tense on verbs?	verbal inflection
+GB083	1	36	0.09944844	0.3482	0.5206	Is there overt morphological marking on the verb dedicated to past tense?	verbal inflection
+GB084	13	22	-0.2683702	0	0.7979	Is there overt morphological marking on the verb dedicated to future tense?	verbal inflection
+GB086	11	24	0.8167144	0.1869	0.0073	Is a morphological distinction between perfective and imperfective aspect available on verbs?	verbal inflection
+GB082	5	31	0.3591921	0.0311	0.2508	Is there overt morphological marking of present tense on verbs?	verb
+GB083	1	36	0.09944844	0.3482	0.5206	Is there overt morphological marking on the verb dedicated to past tense?	verb
+GB084	13	22	-0.2683702	0	0.7979	Is there overt morphological marking on the verb dedicated to future tense?	verb
+GB086	11	24	0.8167144	0.1869	0.0073	Is a morphological distinction between perfective and imperfective aspect available on verbs?	verb
+GB089	15	22	-0.661102	0	992	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	verbal inflection
+GB091	15	22	-0.6607051	0	991	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	verbal inflection
+GB089	15	22	-0.661102	0	992	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	verb
+GB091	15	22	-0.6607051	0	991	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	verb
+GB095	35	2	1.375681	0.6901	52	Are variations in marking strategies of core participants based on TAM distinctions?	noun
+GB095	35	2	1.375681	0.6901	52	Are variations in marking strategies of core participants based on TAM distinctions?	verb
+GB095	35	2	1.375681	0.6901	52	Are variations in marking strategies of core participants based on TAM distinctions?	nominal inflection
+GB095	35	2	1.375681	0.6901	52	Are variations in marking strategies of core participants based on TAM distinctions?	verbal inflection
+GB105	27	4	0.184245	0.0279	0.3735	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	noun
+GB105	27	4	0.184245	0.0279	0.3735	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	nominal inflection
+GB105	27	4	0.184245	0.0279	0.3735	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	adposition
+GB105	27	4	0.184245	0.0279	0.3735	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	formal expression
+GB107	7	29	-0.05456652	5E-04	0.5369	Can standard negation be marked by an affix  clitic or modification of the verb?	verbal inflection
+GB107	7	29	-0.05456652	5E-04	0.5369	Can standard negation be marked by an affix  clitic or modification of the verb?	verb
+GB107	7	29	-0.05456652	5E-04	0.5369	Can standard negation be marked by an affix  clitic or modification of the verb?	negation
+GB108	26	7	-0.4322413	0	0.8068	Is there directional or locative morphological marking on verbs?	verb
+GB108	26	7	-0.4322413	0	0.8068	Is there directional or locative morphological marking on verbs?	verbal inflection
+GB111	12	17	-0.6828273	0	0.9719	Are there conjugation classes?	verb
+GB111	12	17	-0.6828273	0	0.9719	Are there conjugation classes?	verbal inflection
+GB114	10	18	0.1234045	0.0036	0.3798	Is there a phonologically bound reflexive marker on the verb?	verb
+GB114	10	18	0.1234045	0.0036	0.3798	Is there a phonologically bound reflexive marker on the verb?	verbal inflection
+GB115	4	26	0.09447443	18	0.4697	Is there a phonologically bound reciprocal marker on the verb?	verb
+GB115	4	26	0.09447443	18	0.4697	Is there a phonologically bound reciprocal marker on the verb?	verbal inflection
+GB117	2	29	-0.2701817	0.0695	0.5913	Is there a copula for predicate nominals?	predication
+GB118	11	5	1.227843	0.6556	0.0219	Are there serial verb constructions?	verb
+GB118	11	5	1.227843	0.6556	0.0219	Are there serial verb constructions?	clauses
+GB119	14	21	0.5719992	0.0257	0.0389	Can mood be marked by an inflecting word (auxiliary verb)?	clause
+GB120	10	25	0.5691048	0.03	0.0621	Can aspect be marked by an inflecting word (auxiliary verb)?	clause
+GB119	14	21	0.5719992	0.0257	0.0389	Can mood be marked by an inflecting word (auxiliary verb)?	verb
+GB120	10	25	0.5691048	0.03	0.0621	Can aspect be marked by an inflecting word (auxiliary verb)?	verb
+GB121	22	14	0.4346089	0.0053	0.0869	Can tense be marked by an inflecting word (auxiliary verb)?	verb
+GB121	22	14	0.4346089	0.0053	0.0869	Can tense be marked by an inflecting word (auxiliary verb)?	clause
+GB122	14	7	-0.1686978	7E-04	0.6709	Is verb compounding a regular process?	verb
+GB122	14	7	-0.1686978	7E-04	0.6709	Is verb compounding a regular process?	verbal inflection
+GB122	14	7	-0.1686978	7E-04	0.6709	Is verb compounding a regular process?	verbal derivation
+GB123	1	17	-0.4330866	0.2234	0.5104	Are there verb-adjunct (aka light-verb) constructions?	verb
+GB123	1	17	-0.4330866	0.2234	0.5104	Are there verb-adjunct (aka light-verb) constructions?	clause
+GB124	35	1	5.168823	0.9432	0	Is incorporation of nouns into verbs a productive intransitivizing process?	verb
+GB124	35	1	5.168823	0.9432	0	Is incorporation of nouns into verbs a productive intransitivizing process?	verbal derivation
+GB126	9	18	0.1711445	0.0037	0.3626	Is there an existential verb?	predication
+GB126	9	18	0.1711445	0.0037	0.3626	Is there an existential verb?	verb
+GB127	18	1	6.471595	0.7335	0.1433	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	predication
+GB127	18	1	6.471595	0.7335	0.1433	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	verb
+GB132	34	3	1.144587	0.5914	0.0247	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	word order
+GB134	2	26	-0.2682775	0.0883	0.6425	Is the order of constituents the same in main and subordinate clauses?	word order
+GB135	2	19	1.84318	0.7839	47	Do clausal objects usually occur in the same position as nominal objects?	word order
+GB136	12	13	0.2260383	0.0073	0.2785	Is the order of core argument (i.e. S/A/P) constituents fixed?	word order
+GB137	7	29	0.3218886	0.0101	0.2322	Can standard negation be marked clause-finally?	word order
+GB138	33	1	0.4918976	0.3555	0.5512	Can standard negation be marked clause-initially?	word order
+GB139	12	21	0.2655074	0.0015	0.2171	Is there a difference between imperative (prohibitive) and declarative negation constructions?	negation
+GB137	7	29	0.3218886	0.0101	0.2322	Can standard negation be marked clause-finally?	negation
+GB138	33	1	0.4918976	0.3555	0.5512	Can standard negation be marked clause-initially?	negation
+GB139	12	21	0.2655074	0.0015	0.2171	Is there a difference between imperative (prohibitive) and declarative negation constructions?	formal expression
+GB140	24	6	0.2418592	14	306	Is verbal predication marked by the same negator as all of the following types of predication: locational  existential and nominal?	verb
+GB140	24	6	0.2418592	14	306	Is verbal predication marked by the same negator as all of the following types of predication: locational  existential and nominal?	negation
+GB140	24	6	0.2418592	14	306	Is verbal predication marked by the same negator as all of the following types of predication: locational  existential and nominal?	formal expression
+GB146	11	6	0.2737823	0.0454	0.3815	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	noun
+GB146	11	6	0.2737823	0.0454	0.3815	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	nominal inflection
+GB146	11	6	0.2737823	0.0454	0.3815	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	verbal inflection
+GB146	11	6	0.2737823	0.0454	0.3815	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	verb
+GB147	4	33	0.07190505	0.01	472	Is there a morphological passive marked on the lexical verb?	verb
+GB147	4	33	0.07190505	0.01	472	Is there a morphological passive marked on the lexical verb?	verbal derivation
+GB150	1	26	3.986299	0.7335	0.1556	Is there clause chaining?	verb
+GB150	1	26	3.986299	0.7335	0.1556	Is there clause chaining?	clause
+GB150	1	26	3.986299	0.7335	0.1556	Is there clause chaining?	verbal inflection
+GB152	8	24	0.7164052	0.1261	41	Is there a morphologically marked distinction between simultaneous and sequential clauses?	verb
+GB152	8	24	0.7164052	0.1261	41	Is there a morphologically marked distinction between simultaneous and sequential clauses?	verbal inflection
+GB156	35	1	-6.16112	0	0.9379	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	verb
+GB156	35	1	-6.16112	0	0.9379	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	semantics
+GB158	22	2	1.514876	0.7291	0.0755	Are verbs reduplicated?	verb
+GB159	20	5	0.7693466	0.2165	0.0862	Are nouns reduplicated?	noun
+GB158	22	2	1.514876	0.7291	0.0755	Are verbs reduplicated?	verbal inflection
+GB159	20	5	0.7693466	0.2165	0.0862	Are nouns reduplicated?	nominal inflection
+GB160	6	21	1.356192	0.9026	2E-04	Are elements apart from verbs or nouns reduplicated?	inflectional morphology
+GB166	36	1	-0.34578	0.2698	0.5513	Is there productive morphological paucal marking on nouns?	noun
+GB166	36	1	-0.34578	0.2698	0.5513	Is there productive morphological paucal marking on nouns?	nominal inflection
+GB167	34	1	-2.451654	0.1412	723	Is there a logophoric pronoun?	pronoun
+GB184	32	3	0.8664786	0.3906	0.1058	Can an adnominal property word agree with the noun in number?	adjective
+GB185	22	6	0.8894051	0.3208	0.0318	Can an adnominal demonstrative agree with the noun in number?	demonstrative
+GB184	32	3	0.8664786	0.3906	0.1058	Can an adnominal property word agree with the noun in number?	agreement
+GB185	22	6	0.8894051	0.3208	0.0318	Can an adnominal demonstrative agree with the noun in number?	agreement
+GB187	2	27	-0.03758333	0.0703	0.5384	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	noun
+GB188	24	4	0.2305974	0.0409	0.3668	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	noun
+GB187	2	27	-0.03758333	0.0703	0.5384	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	nominal derivation
+GB188	24	4	0.2305974	0.0409	0.3668	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	nominal derivation
+GB196	35	1	-5.275838	28	0.9377	Is there a male/female distinction in 2nd person independent pronouns?	pronoun
+GB196	35	1	-5.275838	28	0.9377	Is there a male/female distinction in 2nd person independent pronouns?	pronoun
+GB197	35	1	-5.955821	0.0259	0.9407	Is there a male/female distinction in 1st person independent pronouns?	pronoun
+GB197	35	1	-5.955821	0.0259	0.9407	Is there a male/female distinction in 1st person independent pronouns?	semantics
+GB204	2	18	2.002962	0.9693	0.0083	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	UQ
+GB204	2	18	2.002962	0.9693	0.0083	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	formal expression
+GB250	26	4	-0.04739163	0.0145	0.5292	Can predicative possession be expressed with a transitive 'habeo' verb?	predicative possession
+GB252	8	21	1.146932	0.6969	9E-04	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	predicative possession
+GB253	15	13	0.1880706	0.0024	0.3027	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	predicative possession
+GB254	12	18	0.6105968	0.0605	0.0421	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	predicative possession
+GB256	21	6	0.2826379	0.0194	0.34	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	predicative possession
+GB250	26	4	-0.04739163	0.0145	0.5292	Can predicative possession be expressed with a transitive 'habeo' verb?	semantics
+GB252	8	21	1.146932	0.6969	9E-04	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	semantics
+GB253	15	13	0.1880706	0.0024	0.3027	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	semantics
+GB254	12	18	0.6105968	0.0605	0.0421	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	semantics
+GB256	21	6	0.2826379	0.0194	0.34	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	semantics
+GB257	26	8	0.7724117	0.1589	0.0203	Can polar interrogation be marked by intonation only?	interrogation
+GB257	26	8	0.7724117	0.1589	0.0203	Can polar interrogation be marked by intonation only?	phonology
+GB263	2	33	-2.155087	0	0.9704	Is there a clause-final polar interrogative particle?	interrogation
+GB263	2	33	-2.155087	0	0.9704	Is there a clause-final polar interrogative particle?	word order
+GB264	34	1	2.217513	0.5084	0.3327	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	interrogation
+GB264	34	1	2.217513	0.5084	0.3327	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	word order
+GB266	7	24	-0.2105798	0	0.6305	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	comparative construction
+GB273	23	11	-0.3842681	0	0.8616	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	comparative construction
+GB275	21	9	0.1913928	0.0038	0.3258	Is there a bound comparative degree marker on the property word in a comparative construction?	comparative construction
+GB275	21	9	0.1913928	0.0038	0.3258	Is there a bound comparative degree marker on the property word in a comparative construction?	adjectival inflection
+GB275	21	9	0.1913928	0.0038	0.3258	Is there a bound comparative degree marker on the property word in a comparative construction?	adjective
+GB276	28	3	-0.06114211	0.0155	0.5703	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	comparative construction
+GB276	28	3	-0.06114211	0.0155	0.5703	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	clause
+GB286	30	5	0.100163	0.0069	0.4256	Can polar interrogation be indicated by overt verbal morphology only?	interrogation
+GB286	30	5	0.100163	0.0069	0.4256	Can polar interrogation be indicated by overt verbal morphology only?	verbal inflection
+GB286	30	5	0.100163	0.0069	0.4256	Can polar interrogation be indicated by overt verbal morphology only?	verb
+GB296	11	11	0.5341311	0.0868	113	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	ideophones
+GB298	25	11	-0.3387222	0	0.8106	Can standard negation be marked by an inflecting word (auxiliary verb)?	clause
+GB298	25	11	-0.3387222	0	0.8106	Can standard negation be marked by an inflecting word (auxiliary verb)?	negation
+GB298	25	11	-0.3387222	0	0.8106	Can standard negation be marked by an inflecting word (auxiliary verb)?	verb
+GB299	27	7	0.3906426	0.0183	0.1917	Can standard negation be marked by a non-inflecting word (auxiliary particle)?	clause
+GB299	27	7	0.3906426	0.0183	0.1917	Can standard negation be marked by a non-inflecting word (auxiliary particle)?	negation
+GB301	6	5	-0.05116179	0.0598	502	Is there an inclusory construction?	clause
+GB304	4	23	0.07998294	18	0.4696	Can the agent be expressed overtly in a passive clause?	clause
+GB305	1	29	-3.34824	0.0982	769	Is there a phonologically independent reflexive pronoun?	pronoun
+GB306	15	2	-0.5705518	0.1276	0.5904	Is there a phonologically independent non-bipartite reciprocal pronoun?	pronoun
+GB309	21	13	0.3077454	0.0022	0.1778	Are there multiple past or multiple future tenses  distinguishing distance from Time of Reference?	verb
+GB309	21	13	0.3077454	0.0022	0.1778	Are there multiple past or multiple future tenses  distinguishing distance from Time of Reference?	verbal inflection
+GB313	26	8	1.058335	0.5735	0.0013	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	pronoun
+GB316	36	1	-0.4115899	0.2746	0.5633	Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?	noun
+GB318	36	1	-0.3356132	0.2649	0.5478	Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?	noun
+GB316	36	1	-0.4115899	0.2746	0.5633	Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?	nominal inflection
+GB318	36	1	-0.3356132	0.2649	0.5478	Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?	nominal inflection
+GB322	29	5	0.8195296	0.2588	0.0426	Is there grammatical marking of direct evidence (perceived with the senses)?	verb
+GB323	26	7	1.212797	0.7932	3E-04	Is there grammatical marking of indirect evidence (hearsay  inference  etc.)?	verb
+GB322	29	5	0.8195296	0.2588	0.0426	Is there grammatical marking of direct evidence (perceived with the senses)?	verbal inflection
+GB323	26	7	1.212797	0.7932	3E-04	Is there grammatical marking of indirect evidence (hearsay  inference  etc.)?	verbal inflection
+GB324	12	14	0.3826865	0.0214	0.1504	Is there an interrogative verb for content interrogatives (who?  what?  etc.)?	interrogation
+GB325	17	7	1.127513	0.6398	0.0039	Is there a count/mass distinction in interrogative quantifiers?	interrogation
+GB325	17	7	1.127513	0.6398	0.0039	Is there a count/mass distinction in interrogative quantifiers?	 formal expression
+GB326	2	25	1.351679	0.6656	0.0733	Do (nominal) content interrogatives normally or frequently occur in situ?	interrogation
+GB326	2	25	1.351679	0.6656	0.0733	Do (nominal) content interrogatives normally or frequently occur in situ?	word order
+GB327	27	5	0.7721645	0.2235	0.0564	Can the relative clause follow the noun?	word order
+GB329	18	3	0.8484073	0.3358	0.1435	Are there internally-headed relative clauses?	clause
+GB400	29	3	0.4532289	0.1433	0.2665	Are all person categories neutralized in some voice  tense  aspect  mood and/or negation?	verbal inflection
+GB401	5	3	0.3195013	0.1771	0.4043	Is there a class of patient-labile verbs?	verbal inflection
+GB403	18	3	-1.681483	0	0.8808	Does the verb for 'come' have suppletive verb forms?	verbal inflection
+GB400	29	3	0.4532289	0.1433	0.2665	Are all person categories neutralized in some voice  tense  aspect  mood and/or negation?	verb
+GB401	5	3	0.3195013	0.1771	0.4043	Is there a class of patient-labile verbs?	verb
+GB403	18	3	-1.681483	0	0.8808	Does the verb for 'come' have suppletive verb forms?	verb
+GB408	1	36	3.108626	0.7224	0.1975	Is there any accusative alignment of flagging?	noun
+GB410	17	19	0.1084014	1E-04	0.3492	Is there any neutral alignment of flagging?	noun
+GB408	1	36	3.108626	0.7224	0.1975	Is there any accusative alignment of flagging?	pronoun
+GB410	17	19	0.1084014	1E-04	0.3492	Is there any neutral alignment of flagging?	pronoun
+GB408	1	36	3.108626	0.7224	0.1975	Is there any accusative alignment of flagging?	nominal inflection
+GB410	17	19	0.1084014	1E-04	0.3492	Is there any neutral alignment of flagging?	nominal inflection
+GB408	1	36	3.108626	0.7224	0.1975	Is there any accusative alignment of flagging?	pronominal inflection
+GB410	17	19	0.1084014	1E-04	0.3492	Is there any neutral alignment of flagging?	pronominal inflection
+GB415	26	10	0.5812276	0.0325	0.0556	Is there a politeness distinction in 2nd person forms?	pronoun
+GB415	26	10	0.5812276	0.0325	0.0556	Is there a politeness distinction in 2nd person forms?	semantics
+GB421	15	5	-0.3992658	0.0013	0.7742	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	clausal objects
+GB422	14	5	-0.7350469	3E-04	0.8441	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	clausal objects
+GB421	15	5	-0.3992658	0.0013	0.7742	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	word order
+GB422	14	5	-0.7350469	3E-04	0.8441	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	word order
+GB431	36	1	3.564894	0.7322	0.0996	Can adnominal possession be marked by a prefix on the possessed noun?	attributive possession
+GB432	8	29	0.2219968	0.0038	0.2916	Can adnominal possession be marked by a suffix on the possessor?	attributive possession
+GB431	36	1	3.564894	0.7322	0.0996	Can adnominal possession be marked by a prefix on the possessed noun?	pronominal inflection
+GB432	8	29	0.2219968	0.0038	0.2916	Can adnominal possession be marked by a suffix on the possessor?	pronominal inflection
+GB431	36	1	3.564894	0.7322	0.0996	Can adnominal possession be marked by a prefix on the possessed noun?	nominal inflection
+GB432	8	29	0.2219968	0.0038	0.2916	Can adnominal possession be marked by a suffix on the possessor?	nominal inflection
+GB433	10	26	-0.8528812	0	924	Can adnominal possession be marked by a suffix on the possessed noun?	nominal inflection
+GB519	27	7	0.8283703	0.2264	17	Can mood be marked by a non-inflecting word (auxiliary particle)?	verb
+GB520	34	2	0.5813447	0.2994	0.2722	Can aspect be marked by a non-inflecting word (auxiliary particle)?	verb
+GB521	33	3	0.5509418	0.1762	0.2203	Can tense be marked by a non-inflecting word (auxiliary particle)?	verb
+GB519	27	7	0.8283703	0.2264	17	Can mood be marked by a non-inflecting word (auxiliary particle)?	verbal inflection
+GB520	34	2	0.5813447	0.2994	0.2722	Can aspect be marked by a non-inflecting word (auxiliary particle)?	verbal inflection
+GB521	33	3	0.5509418	0.1762	0.2203	Can tense be marked by a non-inflecting word (auxiliary particle)?	verbal inflection
+GB522	1	28	-0.6014225	0.2015	0.6648	Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (pro-drop or null anaphora)?	clause
+GB522	1	28	-0.6014225	0.2015	0.6648	Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (pro-drop or null anaphora)?	verbal inflection
+TE002	2	33	1.680443	0.7647	0.0365	Are complex tonal distinctions lacking?	phonology
+TE003	19	17	-0.01383496	0	507	Is there palatal vowel harmony?	phonology
+TE004	31	5	-0.4218748	1E-04	0.8316	Is there tongue root vowel harmony?	phonology
+TE005	27	9	-0.2188243	0	0.7551	Is there an initial velar nasal?	phonology
+TE006	21	10	0.007927329	0	496	Is there an initial r-?	phonology
+TE007	31	4	0.2059494	0.0221	0.3939	Are there initial consonant clusters in native words?	phonology
+TE008	4	33	0.4264097	0.0585	0.2447	Is there a voicing distinction in stops?	phonology
+TE014	8	14	0.7085759	0.1737	0.0614	Is there partial emphatic reduplication of nominal property words?	adjective
+TE014	8	14	0.7085759	0.1737	0.0614	Is there partial emphatic reduplication of nominal property words?	adjectival inflection
+TE016	1	36	3.362012	0.7304	0.1986	Is inflectional morphology predominantly suffixing?	inflectional morphology
+TE018	13	22	0.05389887	0	0.4269	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	pronoun
+TE018	13	22	0.05389887	0	0.4269	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	formal expression
+TE019	10	26	-0.6421335	0	0.9589	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	pronoun
+TE019	10	26	-0.6421335	0	0.9589	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	formal expression
+TE027	23	11	0.6701654	0.0697	0.0244	Can 1PL marker be augmented by a collective plural marker?	pronoun
+TE027	23	11	0.6701654	0.0697	0.0244	Can 1PL marker be augmented by a collective plural marker?	pronominal inflection
+TE031	14	22	0.2485687	2E-04	0.2243	Is there a non-initial velar nasal?	phonology
+TE037	16	21	0.4147188	0.0044	0.0866	Is there a voicing distinction in fricatives?	phonology
+TE038	12	25	-0.4269388	0	0.9017	Are there two separate liquid phonemes (r/l)?	phonology
+TE039	9	27	0.3350831	0.0043	0.2176	Is there vowel length distinction?	phonology
+TE046	21	13	0.4472322	9	0.0845	Is there a plural/collective suffix that is restricted to animates?	noun
+TE046	21	13	0.4472322	9	0.0845	Is there a plural/collective suffix that is restricted to animates?	nominal inflection
+TE050	30	2	1.599033	0.7449	0.0494	Do cardinal numerals require agreement on noun phrases?	noun
+TE050	30	2	1.599033	0.7449	0.0494	Do cardinal numerals require agreement on noun phrases?	agreement
+TE051	9	26	0.2083246	0.0016	0.3277	Is nominative case unmarked?	noun
+TE051	9	26	0.2083246	0.0016	0.3277	Is nominative case unmarked?	nominal inflection
+TE052	19	17	-0.7386002	0	0.9735	Are accusative-marked objects specific while unmarked objects are non-specific?	noun
+TE052	19	17	-0.7386002	0	0.9735	Are accusative-marked objects specific while unmarked objects are non-specific?	nominal inflection
+TE054	3	28	-0.01221564	0.0165	0.5533	Is there a distinction between marking of interrogation in polar and content questions?	interrogation
+TE054	3	28	-0.01221564	0.0165	0.5533	Is there a distinction between marking of interrogation in polar and content questions?	formal expression
+TE059	33	4	0.932637	352	0.0395	Are causative and passive expressed by a formally identical marker?	verb
+TE055	11	20	0.6525211	0.0752	0.0361	Is acting agent in passive clause expressed by a dative-marked noun phrase?	nominal inflection
+TE059	33	4	0.932637	352	0.0395	Are causative and passive expressed by a formally identical marker?	verb
+TE059	33	4	0.932637	352	0.0395	Are causative and passive expressed by a formally identical marker?	formal expression
+TE062	4	18	-0.5997072	0.0029	0.7876	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	adposition
+TE062	4	18	-0.5997072	0.0029	0.7876	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	flagging
+TE066	19	18	-0.7136691	0	0.9742	Is imperative form for 2SG identical to bare verb root?	verbal inflection
+TE066	19	18	-0.7136691	0	0.9742	Is imperative form for 2SG identical to bare verb root?	verb
+TE078	32	2	-0.03949507	0.0999	0.5241	Are there three laryngeal contrasts for stops?	phonology
+TS001	2	32	-0.3797693	0.0477	0.6949	Can numeral precede the noun?	numeral
+TS002	25	9	-0.01365451	0	0.5461	Can numeral follow the noun?	numeral
+TS001	2	32	-0.3797693	0.0477	0.6949	Can numeral precede the noun?	word order
+TS002	25	9	-0.01365451	0	0.5461	Can numeral follow the noun?	word order
+TS006	11	25	-0.6670131	0	0.9779	Can adnominal possessor follow the possessed noun?	attributive possession
+TS009	5	12	-0.07627096	0.0172	0.5628	Can adnominal collective universal quantifier (‘all’) precede the noun?	UQ
+TS010	10	6	0.5079177	0.1508	0.2255	Can adnominal collective universal quantifier (‘all’) follow the noun?	UQ
+TS079	22	4	0.08627828	0.0248	0.4848	Is there height vowel harmony?	phonology
+TS079	22	4	0.08627828	0.0248	0.4848	Is there height vowel harmony?	phonology
+TS080	15	9	-0.4182493	0	0.7945	Is there labial vowel harmony?	phonology
+TS080	15	9	-0.4182493	0	0.7945	Is there labial vowel harmony?	phonology

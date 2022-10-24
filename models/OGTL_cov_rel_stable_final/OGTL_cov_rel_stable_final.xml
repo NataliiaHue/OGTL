@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="BEAST v2.5.1:BEASTLabs v1.8.0" version="2.5">
+
+
+    <data id="transeurasian_stable" dataType="integer" name="alignment">
+                    <sequence id="seq_Azerbaijani" taxon="Azerbaijani" totalcount="2" value="000000001100001111110?10011110111110100100010000001100000011101000001??11110000111011011?101011001"/>
+                    <sequence id="seq_Baoan" taxon="Baoan" totalcount="2" value="000100111100001011000000?0110??0110010?0011??0001001000101?01??00??01??1?100110111111011?1011?0100"/>
+                    <sequence id="seq_Bashkir" taxon="Bashkir" totalcount="2" value="00?00000110000111111?01??1110??11?1000?10001?0000011010000????000???1??11110000101111011?1?101????"/>
+                    <sequence id="seq_Buriat" taxon="Buriat" totalcount="2" value="000000001000?01110110?10001100?0??101??10001?0000111000000??100000?01??111100001111111111101?101??"/>
+                    <sequence id="seq_Chuvash" taxon="Chuvash" totalcount="2" value="0000010011010011101101101110101011101000000000000011010000?010100100100111100000110010111101011001"/>
+                    <sequence id="seq_CrimTatar" taxon="CrimTatar" totalcount="2" value="00?001001?10101111110010011100111110?0?1000100000011010000?1101000??11?111100?0111111011110101??01"/>
+                    <sequence id="seq_EvenB" taxon="EvenB" totalcount="2" value="001100001?0100111111001110110??10010?0010001000???11010110111?0000?000001101100101101010?00101??00"/>
+                    <sequence id="seq_EvenD" taxon="EvenD" totalcount="2" value="00?0000011000011011100?11?1?0???????0?01000?100000?1010?1???1??000??0??011??10?111101000?001010100"/>
+                    <sequence id="seq_Evenki" taxon="Evenki" totalcount="2" value="00?100001111001111110001101110?010000001000110001011010010011?100000000110011001111010101001011011"/>
+                    <sequence id="seq_Gagauz" taxon="Gagauz" totalcount="2" value="00?00000110010111111001001110010101000?10001000000110010001?10100010110111100001010110111101011001"/>
+                    <sequence id="seq_Hateruma" taxon="Hateruma" totalcount="2" value="00?000000?101001100000101??10111111011?10001?00100111??000?11?0000??1??10100000100010110?001101?00"/>
+                    <sequence id="seq_Ikema" taxon="Ikema" totalcount="2" value="00?????01??000?11?000?1?1??10?11?01010?100?10??1??1????000?1??0000??0??101000?11??010?00?00010??00"/>
+                    <sequence id="seq_Japanese" taxon="Japanese" totalcount="2" value="00001100011011111000011010110111101011110001011110101000000111000011001101000101000101100001000100"/>
+                    <sequence id="seq_Kalmyk" taxon="Kalmyk" totalcount="2" value="00?000001?0?001010000000?11?1????01010?10001?0001111000101??10000???1??01?100?01?1111?11110101????"/>
+                    <sequence id="seq_Khakas" taxon="Khakas" totalcount="2" value="00?001001100001111110010?1111?1??11000?10001000???11000000?1??1000?????1110000011111101?1101011011"/>
+                    <sequence id="seq_Khalaj" taxon="Khalaj" totalcount="2" value="00100000110000111011001001111??101100001000??00000?1010?00??001000?011011110000111111011110101??01"/>
+                    <sequence id="seq_Khalkha" taxon="Khalkha" totalcount="2" value="00?00000100000111000001?011100?0?10010?10000000011110000?1?1100000?0100111??000111111111110111??00"/>
+                    <sequence id="seq_Korean" taxon="Korean" totalcount="2" value="00?001001110110011000110111101111000111110010000001010100101111000??10110110010000100010?010100100"/>
+                    <sequence id="seq_Mangghuer" taxon="Mangghuer" totalcount="2" value="010000001110001?1?000100001100?011001010000??00010010?0101001?0110?010011100011011001011?10110??00"/>
+                    <sequence id="seq_Nanai" taxon="Nanai" totalcount="2" value="0010000011110011111100101001100010101110000100001110100010001000000000001100100111????00??01001010"/>
+                    <sequence id="seq_Negidal" taxon="Negidal" totalcount="2" value="001100001111001111110001??1?1???10101??1?00110001011000010?11?1000?00??01?01100111100110100101??00"/>
+                    <sequence id="seq_Ogami" taxon="Ogami" totalcount="2" value="00000000011000101000001110?000?1101010?1001100000010100100011?0000?100110100011000000100?001101000"/>
+                    <sequence id="seq_Okinoerabu" taxon="Okinoerabu" totalcount="2" value="00?00100011???111000001010010?111?1010?1000?000???1?100000?1110000??00010100010100010100000110??00"/>
+                    <sequence id="seq_Oroch" taxon="Oroch" totalcount="2" value="00?1000001?100111111001111110?????111?110001000???11000010?1100000??0??01101100111111110100101??10"/>
+                    <sequence id="seq_Orok" taxon="Orok" totalcount="2" value="00?000000?0100111111000?1??1???11?0?00?1000??0001?10100010?11??00???00011???100111100110100101????"/>
+                    <sequence id="seq_Shor" taxon="Shor" totalcount="2" value="00?001001100001111110010011110?11110000100010000001100000?1???1000??1??111100?0111111011?10101??01"/>
+                    <sequence id="seq_Shuri" taxon="Shuri" totalcount="2" value="000001000?101111100010101??101?11?10?0010001000???1????000?1??0000?10??10?00010100000100?00??0??00"/>
+                    <sequence id="seq_Solon" taxon="Solon" totalcount="2" value="001100001100001111110001??111?1?100?00?1000??000111100001??110100???00011?01000111101010100101????"/>
+                    <sequence id="seq_Tarama" taxon="Tarama" totalcount="2" value="00000??01?1?111110000?101??10?????1011?100010001??1????010????0000??0??10100011100010?00?00100??00"/>
+                    <sequence id="seq_Tatar" taxon="Tatar" totalcount="2" value="00?001001?0000111111001001111?1?1?100??10001000???11010000??1?0001?0010111100??111111011010101100?"/>
+                    <sequence id="seq_Turkish" taxon="Turkish" totalcount="2" value="00100100110010111111001001111011111000010001000000110010001110000000110111100001110110111101011001"/>
+                    <sequence id="seq_Turkmen" taxon="Turkmen" totalcount="2" value="000000001100001111110010011?001?111000?1000100000011010000?11?1001?01??111100101111110111101011001"/>
+                    <sequence id="seq_Tuvan" taxon="Tuvan" totalcount="2" value="00?000001?00??1111110?10?11?0?????10???1000100000011000000?1??0000?01??11110000111111011?10101??01"/>
+                    <sequence id="seq_Udehe" taxon="Udehe" totalcount="2" value="01110000010100101111000011111011100000110001000011010000101110100100100011001001111001111001111111"/>
+                    <sequence id="seq_Ulch" taxon="Ulch" totalcount="2" value="000000001?11001111110010110111?0?0101??10001000???10100011??1?0000??0??01?10100111101010100101????"/>
+                    <sequence id="seq_Yakut" taxon="Yakut" totalcount="2" value="001001001100001011110010011110111110100100010000011?100001?1101000?010001?100001000011011101011101"/>
+                    <sequence id="seq_Yonaguni" taxon="Yonaguni" totalcount="2" value="00?00100111011111000001010010111101011010001100000101??010?11000001?00110100??0100100000001??0??00"/>
+                    <sequence id="seq_Yuwan" taxon="Yuwan" totalcount="2" value="00?0010001101?1110000010???101111?10101100?10000001?1??000?11?0000??00110100010100000100?00010??00"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="10000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:tree" name="stateNode">
+            <taxonset id="TaxonSet.transeurasian_stable" spec="TaxonSet">
+                <alignment idref="transeurasian_stable"/>
+            </taxonset>
+        </tree>
+        <parameter id="mutationRate.s:transeurasian_stable" name="stateNode">1.0</parameter>
+        <parameter id="bcov_alpha.s:transeurasian_stable" lower="1.0E-4" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="bcov_s.s:transeurasian_stable" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+        <parameter id="frequencies.s:transeurasian_stable" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.5 0.5</parameter>
+        <parameter id="birthRate.t:tree" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:clock" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:clock" spec="parameter.IntegerParameter" dimension="74">1</stateNode>
+        <parameter id="ucldMean.c:clock" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:tree" spec="beast.evolution.tree.SimpleRandomTree" estimate="false" initial="@Tree.t:tree" taxa="@transeurasian_stable"/>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="YuleModel.t:tree" spec="beast.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:tree" tree="@Tree.t:tree"/>
+            <prior id="bcov_alpha_prior.s:transeurasian_stable" name="distribution" x="@bcov_alpha.s:transeurasian_stable">
+                <Uniform id="Uniform.1" name="distr"/>
+            </prior>
+            <prior id="bcov_s_prior.s:transeurasian_stable" name="distribution" x="@bcov_s.s:transeurasian_stable">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.0" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.1" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="YuleBirthRatePrior.t:tree" name="distribution" x="@birthRate.t:tree">
+                <Uniform id="Uniform.2" name="distr"/>
+            </prior>
+            <prior id="MeanRatePrior.c:clock" name="distribution" x="@ucldMean.c:clock">
+                <Uniform id="Uniform.4" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:clock" name="distribution" x="@ucldStdev.c:clock">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.4" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.5" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="Yayoi.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree">
+                <taxonset id="Yayoi" spec="TaxonSet">
+                    <taxon id="Yuwan" spec="Taxon"/>
+                    <taxon id="Yonaguni" spec="Taxon"/>
+                    <taxon id="Tarama" spec="Taxon"/>
+                    <taxon id="Shuri" spec="Taxon"/>
+                    <taxon id="Okinoerabu" spec="Taxon"/>
+                    <taxon id="Ogami" spec="Taxon"/>
+                    <taxon id="Japanese" spec="Taxon"/>
+                    <taxon id="Ikema" spec="Taxon"/>
+                    <taxon id="Hateruma" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.0" meanInRealSpace="true" name="distr" offset="1700.0">
+                    <parameter id="RealParameter.6" estimate="false" name="M">400.0</parameter>
+                    <parameter id="RealParameter.7" estimate="false" lower="0.0" name="S" upper="5.0">0.6</parameter>
+                </LogNormal>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.transeurasian_stable" spec="TreeLikelihood" tree="@Tree.t:tree" useAmbiguities="true">
+                <data id="orgdata.transeurasian_stable" spec="FilteredAlignment" ascertained="true" data="@transeurasian_stable" excludeto="1" filter="-">
+                    <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:transeurasian_stable" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:transeurasian_stable">
+                    <parameter id="gammaShape.s:transeurasian_stable" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:transeurasian_stable" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:transeurasian_stable" switchRate="@bcov_s.s:transeurasian_stable" vfrequencies="@frequencies.s:transeurasian_stable">
+                        <parameter id="hiddenfrequencies.s:transeurasian_stable" dimension="2" estimate="false" lower="0.0" name="hfrequencies" upper="1.0">0.5 0.5</parameter>
+                        <frequencies id="dummyfrequencies.s:transeurasian_stable" spec="Frequencies" data="@transeurasian_stable" estimate="false"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:clock" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock" rateCategories="@rateCategories.c:clock" tree="@Tree.t:tree">
+                    <LogNormal id="LogNormalDistributionModel.c:clock" S="@ucldStdev.c:clock" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.3" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="bcovAlphaScaler.s:transeurasian_stable" spec="ScaleOperator" parameter="@bcov_alpha.s:transeurasian_stable" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="bcovSwitchParamScaler.s:transeurasian_stable" spec="ScaleOperator" parameter="@bcov_s.s:transeurasian_stable" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="YuleBirthRateScaler.t:tree" spec="ScaleOperator" parameter="@birthRate.t:tree" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="frequenciesDelta.s:transeurasian_stable" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="frequencies.s:transeurasian_stable"/>
+    </operator>
+
+    <operator id="YuleModelTreeScaler.t:tree" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="YuleModelTreeRootScaler.t:tree" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="YuleModelUniformOperator.t:tree" spec="Uniform" tree="@Tree.t:tree" weight="30.0"/>
+
+    <operator id="YuleModelSubtreeSlide.t:tree" spec="SubtreeSlide" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="YuleModelNarrow.t:tree" spec="Exchange" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="YuleModelWide.t:tree" spec="Exchange" isNarrow="false" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="YuleModelWilsonBalding.t:tree" spec="WilsonBalding" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="FixMeanMutationRatesOperator" spec="DeltaExchangeOperator" delta="0.75" weight="2.0">
+        <parameter idref="mutationRate.s:transeurasian_stable"/>
+        <weightvector id="weightparameter" spec="parameter.IntegerParameter" estimate="false" lower="0" upper="0">97</weightvector>
+    </operator>
+
+    <operator id="ucldStdevScaler.c:clock" spec="ScaleOperator" parameter="@ucldStdev.c:clock" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:clock" spec="IntRandomWalkOperator" parameter="@rateCategories.c:clock" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:clock" spec="SwapOperator" intparameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:clock" spec="UniformOperator" parameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="ucldMeanScaler.c:clock" spec="ScaleOperator" parameter="@ucldMean.c:clock" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="relaxedUpDownOperator.c:clock" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:clock"/>
+        <down idref="Tree.t:tree"/>
+    </operator>
+
+    <logger id="tracelog" fileName="OGTL_cov_rel_stable_final.log" logEvery="1000" model="@posterior" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.transeurasian_stable"/>
+        <log id="TreeHeight.t:tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:tree"/>
+        <log idref="mutationRate.s:transeurasian_stable"/>
+        <log idref="bcov_alpha.s:transeurasian_stable"/>
+        <log idref="bcov_s.s:transeurasian_stable"/>
+        <log idref="YuleModel.t:tree"/>
+        <log idref="birthRate.t:tree"/>
+        <log idref="frequencies.s:transeurasian_stable"/>
+        <log idref="ucldStdev.c:clock"/>
+        <log id="rate.c:clock" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+        <log idref="Yayoi.prior"/>
+        <log idref="ucldMean.c:clock"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:tree" fileName="OGTL_cov_rel_stable_final.trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+    </logger>
+
+</run>
+
+</beast>
